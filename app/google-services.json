@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044618061566",
+    "firebase_url": "https://fir-storageremote.firebaseio.com",
+    "project_id": "fir-storageremote",
+    "storage_bucket": "fir-storageremote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044618061566:android:af1f7e632c157eeb3ea7af",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorageremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044618061566-f6o3644a62f3p4mmp9cc4dstntc602k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnr4xOEpgAJPrCI9SoCBVudL0iOEpSuA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044618061566-f6o3644a62f3p4mmp9cc4dstntc602k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
